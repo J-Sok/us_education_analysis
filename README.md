@@ -23,3 +23,6 @@ United States education is ranked above average in the world, but still lags beh
 - Jupyter - _platform to execute scripts_
 - Tableau - _platform to create visualizations and storyboard_
 - PowerPoint - _platform to present findings to Management and Stakeholders_
+
+## Data 
+Data sourced from: https://www.kaggle.com/datasets/noriuk/us-education-datasets-unification-project?select=states_all.csv 
