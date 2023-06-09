@@ -12,7 +12,7 @@ United States education is ranked above average in the world, but still lags beh
 - Which US States/Regions have the highest test scores? Lowest test scores?
 - How does educational funding affect test scores? Enrollment?
 
-## Tools used
+## Tools utilized
 - Excel - _read csv files, manipulate data_
 - Python - _programming language for scripts_
      - libraries used:
