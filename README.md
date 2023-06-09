@@ -15,11 +15,11 @@ United States education is ranked above average in the world, but still lags beh
 ## Tools used
 - Excel - _read csv files, manipulate data
 - Python - _programming language for scripts_
-      - libraries used:
-          - pandas - _tabular data analytics_
-          - matplotlib - _mathematical visualizations_
-          - sklearn - _linear regression & k means clustering analysis_
-          - json & folium - _geospatial analysis_
+     - libraries used:
+         - pandas - _tabular data analytics_
+         - matplotlib - _mathematical visualizations_
+         - sklearn - _linear regression & k means clustering analysis_
+         - json & folium - _geospatial analysis_
 - Jupyter - _platform to execute scripts_
 - Tableau - _platform to create visualizations and storyboard_
 - PowerPoint - _platform to present findings to Management and Stakeholders_
