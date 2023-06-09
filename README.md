@@ -4,7 +4,7 @@ This is a demonstration of Python (pandas, matplotlib, pyplot, sklearn, json, fo
 ![School is cool!](https://www.acs.org/content/acs/en/education/policies/middle-and-high-school-chemistry/classroom/_jcr_content/bottomContent/columnsbootstrap/column1/image.scale.medium.jpg/1574355187340.jpg)
 
 ## Objective
-United States education is ranked above average in the world, but still lags behind countries in Asia and Europe in terms of academic performance.  Scores are decent, but with the resources available to each State, the objective of this analysis is to unveil any unusual or interesting patterns in US Education data.
+United States education is ranked above average in the world, but still lags behind countries in Asia and Europe in terms of academic performance.  The objective of this analysis is to unveil any unusual or interesting patterns in US Education data, which could aid to ameliorate education in the United States.
 
 ## Key Questions
 - Which US States/Regions retain the most students from Pre-K to 12th Grade?
@@ -13,7 +13,7 @@ United States education is ranked above average in the world, but still lags beh
 - How does educational funding affect test scores? Enrollment?
 
 ## Tools used
-- Excel - _read csv files, manipulate data
+- Excel - _read csv files, manipulate data_
 - Python - _programming language for scripts_
      - libraries used:
          - pandas - _tabular data analytics_
